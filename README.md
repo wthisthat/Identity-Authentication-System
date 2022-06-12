@@ -1,7 +1,6 @@
 # Identity-Authentication-System
 FACE-RECOGNITION-CAPABLE VIDEO SURVEILLANCE SYSTEM
 
-/*DESCRIPTION*/
 A system that accepts video input from webcam or camera connected to the computer, perform face detection, face recognition, and identity authentication in real-time. User can monitor the real-time video input and identity authentication results, manage the identity database, and view identity authentication records.
 
 
