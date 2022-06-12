@@ -6,10 +6,9 @@ A system that accepts video input from webcam or camera connected to the compute
 To run system:
 1.	Have Python installed in the local computer
 2.	Setup MySQL in local system (Window: https://dev.mysql.com/downloads/installer/) 
-3.	Unzip SYSTEM_SOURCE_CODE.zip
-4.	Install all required packages in requirements.txt (command: pip install -r /path/to/requirements.txt)
-5.	Open the folder where the system python files at in an IDE 
-6.	Run main.py
+3.	Install all required packages in requirements.txt (command: pip install -r /path/to/requirements.txt)
+4.	Open the folder where the system python files at in an IDE 
+5.	Run main.py
 
 To process FDDB dataset for YOLOv5 training:
 1.	Download FDDB dataset and annotation from http://vis-www.cs.umass.edu/fddb/ 
